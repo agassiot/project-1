@@ -23,4 +23,7 @@
             ### Links
             Github Page https://github.com/agassiot
             Github Repository https://github.com/agassiot/project-1
-            Live Link https://agassiot.github.io/project-1/Landing.html<img width="1483" alt="meme-gen" src="https://user-images.githubusercontent.com/61921580/197560477-3bbca00a-047c-456f-9a1e-80ff27aeca15.png">
+            Live Link https://agassiot.github.io/project-1/Landing.html
+            
+            <img width="1483" alt="meme-gen" src="https://user-images.githubusercontent.com/61921580/197560680-16a6aa68-6f2d-4dd0-b9c1-fbc608d314f9.png">
+
