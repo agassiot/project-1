@@ -1,0 +1,24 @@
+
+.card-title{
+    text-align: center;
+}
+
+ .card-text{
+    text-align: center;
+ }
+
+.img-size  {
+    max-width: 4000px;
+    max-height: 300px;
+    border-radius: 8px;
+}
+
+.Btn-displying{
+    display: inline-block;
+    padding: 10px;
+}
+
+.form-control{
+ text-align: center;
+ margin-top: 5rem;
+}

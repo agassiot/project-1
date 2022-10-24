@@ -1,0 +1,19 @@
+#giffys {
+height: 100vh;
+display: flex;
+flex-flow: row wrap;
+align-items: flex-end;
+}
+
+img {
+padding: 1rem;
+}
+
+
+.card-title{
+    text-align: center;
+}
+
+ .card-text{
+    text-align: center;
+ }
