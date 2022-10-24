@@ -25,5 +25,5 @@
             Github Repository https://github.com/agassiot/project-1
             Live Link https://agassiot.github.io/project-1/Landing.html
             
-            <img width="1483" alt="meme-gen" src="https://user-images.githubusercontent.com/61921580/197560680-16a6aa68-6f2d-4dd0-b9c1-fbc608d314f9.png">
-
+          
+<img width="1447" alt="meme-gen" src="https://user-images.githubusercontent.com/61921580/197561077-d1c584a4-5041-47c9-8116-48b0187a7e91.png">
